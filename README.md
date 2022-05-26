@@ -2,7 +2,7 @@
 
 # Hello World
 
-> Description the project.
+> This project is to show Hello Microverse on screen along with my favourite colour.
 
 
 ## Built With
