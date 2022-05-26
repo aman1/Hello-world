@@ -1,4 +1,4 @@
-# Hello World
+### Hello World
 
 > This project is to show Hello Microverse on screen along with my favourite colour.
 
